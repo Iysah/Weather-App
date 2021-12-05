@@ -150,6 +150,9 @@ body {
     .current-info .others .weather-item {
         font-size: 14px;
     }
+    .future-cast .weather-cast {
+        height: 30vh;
+    }
 }
 @media screen and (max-width: 1000px) {
     .future-cast {
